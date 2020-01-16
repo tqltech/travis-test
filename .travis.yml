@@ -9,3 +9,4 @@ addons:
 script:
   - sudo cat /proc/cpuinfo
   - lscpu
+  - uname -a
